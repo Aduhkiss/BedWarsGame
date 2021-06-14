@@ -1,0 +1,66 @@
+world:
+  active: true
+  name: "Jurassic"
+  builders: "Hypixel Build Team"
+  generators:
+    blue_team_gen:
+      x: 0
+      y: 0
+      z: 0
+    red_team_gen:
+      x: 0
+      y: 0
+      z: 0
+    green_team_gen:
+      x: 0
+      y: 0
+      z: 0
+    yellow_team_gen:
+      x: 0
+      y: 0
+      z: 0
+    diamond_gen_one:
+      x: 0
+      y: 0
+      z: 0
+    diamond_gen_two:
+      x: 0
+      y: 0
+      z: 0
+    diamond_gen_three:
+      x: 0
+      y: 0
+      z: 0
+    diamond_gen_four:
+      x: 0
+      y: 0
+      z: 0
+    emerald_gen_one:
+      x: 0
+      y: 0
+      z: 0
+    emerald_gen_two:
+      x: 0
+      y: 0
+      z: 0
+  spawnpoints:
+    lobby:
+      x: 236
+      y: 6
+      z: 26
+    red:
+      x: 0
+      y: 0
+      z: 0
+    blue:
+      x: 0
+      y: 0
+      z: 0
+    green:
+      x: 0
+      y: 0
+      z: 0
+    yellow:
+      x: 0
+      y: 0
+      z: 0

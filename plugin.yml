@@ -1,0 +1,21 @@
+name: BedWars
+main: com.thecloudyco.bw.Starter
+author: Aduhkiss
+load: POSTWORLD
+version: 1.0
+api-version: 1.16
+commands:
+  setgenspawn:
+    description: Set Generator spawn points
+    permission: op
+  setteamspawn:
+    description: Set team spawn points
+    permission: op
+  shutdowngamelogic:
+    description: Shutdown the game lol USE ONLY FOR DEBUGGING
+    permission: op
+permissions: 
+  arcade.bedwars.command.setgenspawn:
+    default: false
+  arcade.bedwars.command.setteamspawn:
+    default: false
